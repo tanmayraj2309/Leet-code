@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tanmayraj2309/Leet-code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/tanmayraj2309/Leet-code/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/tanmayraj2309/Leet-code/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
