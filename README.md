@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/tanmayraj2309/Leet-code/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/tanmayraj2309/Leet-code/tree/master/0053-maximum-subarray) |
 | [0164-maximum-gap](https://github.com/tanmayraj2309/Leet-code/tree/master/0164-maximum-gap) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/tanmayraj2309/Leet-code/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tanmayraj2309/Leet-code/tree/master/0050-powx-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tanmayraj2309/Leet-code/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tanmayraj2309/Leet-code/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
