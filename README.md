@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tanmayraj2309/Leet-code/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/tanmayraj2309/Leet-code/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/tanmayraj2309/Leet-code/tree/master/0164-maximum-gap) |
+| [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmayraj2309/Leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0739-daily-temperatures](https://github.com/tanmayraj2309/Leet-code/tree/master/0739-daily-temperatures) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/tanmayraj2309/Leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tanmayraj2309/Leet-code/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmayraj2309/Leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Bit Manipulation
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/tanmayraj2309/Leet-code/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0567-permutation-in-string) |
 | [1923-sentence-similarity-iii](https://github.com/tanmayraj2309/Leet-code/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tanmayraj2309/Leet-code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
