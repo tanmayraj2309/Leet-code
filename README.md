@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmayraj2309/Leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0670-maximum-swap](https://github.com/tanmayraj2309/Leet-code/tree/master/0670-maximum-swap) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/tanmayraj2309/Leet-code/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanmayraj2309/Leet-code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/tanmayraj2309/Leet-code/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tanmayraj2309/Leet-code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
