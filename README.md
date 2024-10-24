@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayraj2309/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tanmayraj2309/Leet-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0739-daily-temperatures](https://github.com/tanmayraj2309/Leet-code/tree/master/0739-daily-temperatures) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanmayraj2309/Leet-code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/tanmayraj2309/Leet-code/tree/master/1002-maximum-width-ramp) |
@@ -190,13 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayraj2309/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tanmayraj2309/Leet-code/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/tanmayraj2309/Leet-code/tree/master/0386-lexicographical-numbers) |
 ## Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayraj2309/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tanmayraj2309/Leet-code/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayraj2309/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/tanmayraj2309/Leet-code/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
