@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0735-asteroid-collision](https://github.com/tanmayraj2309/Leet-code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tanmayraj2309/Leet-code/tree/master/0739-daily-temperatures) |
+| [0853-most-profit-assigning-work](https://github.com/tanmayraj2309/Leet-code/tree/master/0853-most-profit-assigning-work) |
 | [1002-maximum-width-ramp](https://github.com/tanmayraj2309/Leet-code/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanmayraj2309/Leet-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/tanmayraj2309/Leet-code/tree/master/0222-count-complete-tree-nodes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0853-most-profit-assigning-work](https://github.com/tanmayraj2309/Leet-code/tree/master/0853-most-profit-assigning-work) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0853-most-profit-assigning-work](https://github.com/tanmayraj2309/Leet-code/tree/master/0853-most-profit-assigning-work) |
 | [1256-rank-transform-of-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/1256-rank-transform-of-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tanmayraj2309/Leet-code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tanmayraj2309/Leet-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0567-permutation-in-string) |
+| [0853-most-profit-assigning-work](https://github.com/tanmayraj2309/Leet-code/tree/master/0853-most-profit-assigning-work) |
 | [1923-sentence-similarity-iii](https://github.com/tanmayraj2309/Leet-code/tree/master/1923-sentence-similarity-iii) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tanmayraj2309/Leet-code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tanmayraj2309/Leet-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanmayraj2309/Leet-code/tree/master/0011-container-with-most-water) |
 | [0670-maximum-swap](https://github.com/tanmayraj2309/Leet-code/tree/master/0670-maximum-swap) |
+| [0853-most-profit-assigning-work](https://github.com/tanmayraj2309/Leet-code/tree/master/0853-most-profit-assigning-work) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/tanmayraj2309/Leet-code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/tanmayraj2309/Leet-code/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tanmayraj2309/Leet-code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
