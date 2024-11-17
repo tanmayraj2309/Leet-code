@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/tanmayraj2309/Leet-code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tanmayraj2309/Leet-code/tree/master/0739-daily-temperatures) |
 | [0853-most-profit-assigning-work](https://github.com/tanmayraj2309/Leet-code/tree/master/0853-most-profit-assigning-work) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/tanmayraj2309/Leet-code/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanmayraj2309/Leet-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/tanmayraj2309/Leet-code/tree/master/0222-count-complete-tree-nodes) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0853-most-profit-assigning-work](https://github.com/tanmayraj2309/Leet-code/tree/master/0853-most-profit-assigning-work) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanmayraj2309/Leet-code/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tanmayraj2309/Leet-code/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tanmayraj2309/Leet-code/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/tanmayraj2309/Leet-code/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/tanmayraj2309/Leet-code/tree/master/1940-maximum-xor-for-each-query) |
 ## Two Pointers
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0567-permutation-in-string) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/tanmayraj2309/Leet-code/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Stack
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0215-kth-largest-element-in-an-array) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/tanmayraj2309/Leet-code/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/tanmayraj2309/Leet-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tanmayraj2309/Leet-code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -296,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/tanmayraj2309/Leet-code/tree/master/2716-prime-subtraction-operation) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
