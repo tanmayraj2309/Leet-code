@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanmayraj2309/Leet-code/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/tanmayraj2309/Leet-code/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/tanmayraj2309/Leet-code/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/tanmayraj2309/Leet-code/tree/master/0001-two-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/1256-rank-transform-of-an-array) |
