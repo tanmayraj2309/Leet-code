@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/tanmayraj2309/Leet-code/tree/master/1755-defuse-the-bomb) |
 | [1923-sentence-similarity-iii](https://github.com/tanmayraj2309/Leet-code/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/tanmayraj2309/Leet-code/tree/master/1940-maximum-xor-for-each-query) |
+| [1972-rotating-the-box](https://github.com/tanmayraj2309/Leet-code/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/tanmayraj2309/Leet-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tanmayraj2309/Leet-code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tanmayraj2309/Leet-code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/tanmayraj2309/Leet-code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0059-spiral-matrix-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tanmayraj2309/Leet-code/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/tanmayraj2309/Leet-code/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tanmayraj2309/Leet-code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Recursion
 |  |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/tanmayraj2309/Leet-code/tree/master/0853-most-profit-assigning-work) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanmayraj2309/Leet-code/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/tanmayraj2309/Leet-code/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/tanmayraj2309/Leet-code/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tanmayraj2309/Leet-code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tanmayraj2309/Leet-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tanmayraj2309/Leet-code/tree/master/2699-count-the-number-of-fair-pairs) |
