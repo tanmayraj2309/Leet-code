@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tanmayraj2309/Leet-code/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/tanmayraj2309/Leet-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0567-permutation-in-string) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tanmayraj2309/Leet-code/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tanmayraj2309/Leet-code/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/tanmayraj2309/Leet-code/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/tanmayraj2309/Leet-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tanmayraj2309/Leet-code/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0838-design-linked-list](https://github.com/tanmayraj2309/Leet-code/tree/master/0838-design-linked-list) |
 ## Design
 |  |
