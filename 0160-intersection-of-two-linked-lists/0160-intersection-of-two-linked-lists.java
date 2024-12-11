@@ -53,14 +53,57 @@ public class Solution {
 
 
     // Approach 3 : Two Poninter   // dist= travel of a =x+y+z; travel of b=z+y+x// similar as 3+2=5; 2+3=5
-     ListNode currA=headA,
+    //  ListNode currA=headA,
+    //   currB=headB;
+    //   while(currA!=currB){
+    //     currA=currA==null ?headB: currA.next;
+    //     currB= currB==null ? headA : currB.next;
+    //   }
+    //   return currA;
+
+
+      /// Approach 4 : simply we find the length of both the linked list 
+      // after that jisk large length - small length krgee 
+      // after that jo big length list usko wha se traverse krna suru krege jo 
+      //bhi subtaraction of length ka result aaya hai then check krege b ke sath 
+      //whether they will meet or not
+
+      ListNode currA = headA;
+      ListNode currB= headB;
+      int lenA=0;
+      int lenB=0;
+      while(currA!=null){
+        lenA++;
+        currA=currA.next;
+      }
+      while(currB!=null){
+        lenB++;
+        currB=currB.next;
+      }
+      currA=headA;
       currB=headB;
+      int diff=Math.abs(lenA-lenB);
+
+      if(lenA>lenB){
+        int i=0;
+        while(i<diff){
+            currA=currA.next;
+            i++;
+        }
+      }
+      else{
+        int i=0;
+        while(i<diff){
+            currB=currB.next;
+            i++;
+        }
+      }
+
       while(currA!=currB){
-        currA=currA==null ?headB: currA.next;
-        currB= currB==null ? headA : currB.next;
+        currA=currA.next;
+        currB=currB.next;
       }
       return currA;
-
         
     }
 }
