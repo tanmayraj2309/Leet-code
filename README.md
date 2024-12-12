@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanmayraj2309/Leet-code/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tanmayraj2309/Leet-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/tanmayraj2309/Leet-code/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/tanmayraj2309/Leet-code/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/tanmayraj2309/Leet-code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/tanmayraj2309/Leet-code/tree/master/2716-prime-subtraction-operation) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/tanmayraj2309/Leet-code/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/tanmayraj2309/Leet-code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tanmayraj2309/Leet-code/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/tanmayraj2309/Leet-code/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tanmayraj2309/Leet-code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Matrix
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/tanmayraj2309/Leet-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tanmayraj2309/Leet-code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/tanmayraj2309/Leet-code/tree/master/2164-two-best-non-overlapping-events) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/tanmayraj2309/Leet-code/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Backtracking
 |  |
 | ------- |
