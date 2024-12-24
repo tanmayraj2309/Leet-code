@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanmayraj2309/Leet-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tanmayraj2309/Leet-code/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/tanmayraj2309/Leet-code/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/tanmayraj2309/Leet-code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Tree
 |  |
 | ------- |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tanmayraj2309/Leet-code/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/tanmayraj2309/Leet-code/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/tanmayraj2309/Leet-code/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/tanmayraj2309/Leet-code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -435,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanmayraj2309/Leet-code/tree/master/0637-average-of-levels-in-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/tanmayraj2309/Leet-code/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/tanmayraj2309/Leet-code/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/tanmayraj2309/Leet-code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Quickselect
 |  |
 | ------- |
@@ -482,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/tanmayraj2309/Leet-code/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Graph
+|  |
+| ------- |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/tanmayraj2309/Leet-code/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 <!---LeetCode Topics End-->
