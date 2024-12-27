@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/tanmayraj2309/Leet-code/tree/master/0853-most-profit-assigning-work) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1002-maximum-width-ramp](https://github.com/tanmayraj2309/Leet-code/tree/master/1002-maximum-width-ramp) |
+| [1063-best-sightseeing-pair](https://github.com/tanmayraj2309/Leet-code/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tanmayraj2309/Leet-code/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/1256-rank-transform-of-an-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanmayraj2309/Leet-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tanmayraj2309/Leet-code/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/tanmayraj2309/Leet-code/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/tanmayraj2309/Leet-code/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/tanmayraj2309/Leet-code/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/tanmayraj2309/Leet-code/tree/master/2164-two-best-non-overlapping-events) |
 ## Counting
 |  |
