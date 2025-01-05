@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tanmayraj2309/Leet-code/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/tanmayraj2309/Leet-code/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/tanmayraj2309/Leet-code/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/2465-shifting-letters-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tanmayraj2309/Leet-code/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/tanmayraj2309/Leet-code/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/tanmayraj2309/Leet-code/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/tanmayraj2309/Leet-code/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2465-shifting-letters-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/tanmayraj2309/Leet-code/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/tanmayraj2309/Leet-code/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/tanmayraj2309/Leet-code/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/tanmayraj2309/Leet-code/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/tanmayraj2309/Leet-code/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/tanmayraj2309/Leet-code/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/2465-shifting-letters-ii) |
 | [3427-special-array-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/3427-special-array-ii) |
 ## Two Pointers
 |  |
