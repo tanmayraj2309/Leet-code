@@ -1,18 +1,20 @@
 class Solution {
     public int minimumLength(String s) {
-        int len=s.length();
-        char[] arr=new char[26];
-        for(char c:s.toCharArray())
-        {
-            arr[c-'a']++;
-            if(arr[c-'a']==3)
-            {
-                len-=2;
-                arr[c-'a']-=2;
+        int n = s.length();
+        int count=0;
+        HashMap<Character,Integer> map = new HashMap<>();
+        for(int i=0;i<n;i++){
+            if(map.size()==0 || !map.containsKey(s.charAt(i))){
+                map.put(s.charAt(i),1);
             }
-           
-        }
-        return len;
-        
+            else{
+                map.put(s.charAt(i),map.get(s.charAt(i))+1);
+                if(map.get(s.charAt(i))==3){
+                    map.put(s.charAt(i),1);
+                    count++;
+                }
+            }
+        }        
+        return (n - (count*2));
     }
 }
