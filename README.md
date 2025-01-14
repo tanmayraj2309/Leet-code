@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tanmayraj2309/Leet-code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tanmayraj2309/Leet-code/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/tanmayraj2309/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/tanmayraj2309/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanmayraj2309/Leet-code/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/tanmayraj2309/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/tanmayraj2309/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmayraj2309/Leet-code/tree/master/0160-intersection-of-two-linked-lists) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tanmayraj2309/Leet-code/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tanmayraj2309/Leet-code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/tanmayraj2309/Leet-code/tree/master/0073-set-matrix-zeroes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tanmayraj2309/Leet-code/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/tanmayraj2309/Leet-code/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/tanmayraj2309/Leet-code/tree/master/2343-count-unguarded-cells-in-the-grid) |
