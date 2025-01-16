@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0415-add-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0678-valid-parenthesis-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tanmayraj2309/Leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tanmayraj2309/Leet-code/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmayraj2309/Leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/tanmayraj2309/Leet-code/tree/master/0670-maximum-swap) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/tanmayraj2309/Leet-code/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/tanmayraj2309/Leet-code/tree/master/0735-asteroid-collision) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/tanmayraj2309/Leet-code/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/2232-adding-spaces-to-a-string) |
