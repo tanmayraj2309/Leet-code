@@ -1,6 +1,9 @@
 class Solution {
 
     public static boolean bs(int[] arr,int target){
+
+        // Tc = O(N+logM)
+        // sc = O(1)
         int n= arr.length;
         int low=0;
         int high=n-1;
