@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanmayraj2309/Leet-code/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/tanmayraj2309/Leet-code/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/tanmayraj2309/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/tanmayraj2309/Leet-code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/tanmayraj2309/Leet-code/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tanmayraj2309/Leet-code/tree/master/0054-spiral-matrix) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tanmayraj2309/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/tanmayraj2309/Leet-code/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/tanmayraj2309/Leet-code/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tanmayraj2309/Leet-code/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tanmayraj2309/Leet-code/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/tanmayraj2309/Leet-code/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/tanmayraj2309/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tanmayraj2309/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/tanmayraj2309/Leet-code/tree/master/0141-linked-list-cycle) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tanmayraj2309/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmayraj2309/Leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayraj2309/Leet-code/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayraj2309/Leet-code/tree/master/0145-binary-tree-postorder-traversal) |
@@ -432,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tanmayraj2309/Leet-code/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/tanmayraj2309/Leet-code/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/tanmayraj2309/Leet-code/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/tanmayraj2309/Leet-code/tree/master/1002-maximum-width-ramp) |
