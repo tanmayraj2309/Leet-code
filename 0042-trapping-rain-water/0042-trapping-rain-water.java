@@ -1,5 +1,8 @@
 class Solution {
     public int trap(int[] height) {
+
+        // Time complexity = O(3*n) == O(n);
+        // space complexity = O(2*n) == O(n); 
         
         // by suffix max and prefix max technique
 
