@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0415-add-strings) |
 | [0567-permutation-in-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0678-valid-parenthesis-string) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmayraj2309/Leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/tanmayraj2309/Leet-code/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0567-permutation-in-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0793-swap-adjacent-in-lr-string) |
