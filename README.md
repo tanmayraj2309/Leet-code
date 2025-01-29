@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/tanmayraj2309/Leet-code/tree/master/0164-maximum-gap) |
 | [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/tanmayraj2309/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/tanmayraj2309/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/tanmayraj2309/Leet-code/tree/master/0414-third-maximum-number) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/tanmayraj2309/Leet-code/tree/master/0074-search-a-2d-matrix) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0209-minimum-size-subarray-sum](https://github.com/tanmayraj2309/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/tanmayraj2309/Leet-code/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/tanmayraj2309/Leet-code/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tanmayraj2309/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/tanmayraj2309/Leet-code/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/tanmayraj2309/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/tanmayraj2309/Leet-code/tree/master/1755-defuse-the-bomb) |
