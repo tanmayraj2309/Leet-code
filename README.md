@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/tanmayraj2309/Leet-code/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tanmayraj2309/Leet-code/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanmayraj2309/Leet-code/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/tanmayraj2309/Leet-code/tree/master/0684-redundant-connection) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanmayraj2309/Leet-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/tanmayraj2309/Leet-code/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/tanmayraj2309/Leet-code/tree/master/1558-course-schedule-iv) |
@@ -536,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/tanmayraj2309/Leet-code/tree/master/0199-binary-tree-right-side-view) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tanmayraj2309/Leet-code/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanmayraj2309/Leet-code/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0684-redundant-connection](https://github.com/tanmayraj2309/Leet-code/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/tanmayraj2309/Leet-code/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tanmayraj2309/Leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/tanmayraj2309/Leet-code/tree/master/1558-course-schedule-iv) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/tanmayraj2309/Leet-code/tree/master/0684-redundant-connection) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tanmayraj2309/Leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/tanmayraj2309/Leet-code/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/tanmayraj2309/Leet-code/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/tanmayraj2309/Leet-code/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/tanmayraj2309/Leet-code/tree/master/1396-count-servers-that-communicate) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/tanmayraj2309/Leet-code/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tanmayraj2309/Leet-code/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
