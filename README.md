@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/tanmayraj2309/Leet-code/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1396-count-servers-that-communicate](https://github.com/tanmayraj2309/Leet-code/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tanmayraj2309/Leet-code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1477-product-of-the-last-k-numbers](https://github.com/tanmayraj2309/Leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tanmayraj2309/Leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tanmayraj2309/Leet-code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmayraj2309/Leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0670-maximum-swap](https://github.com/tanmayraj2309/Leet-code/tree/master/0670-maximum-swap) |
+| [1477-product-of-the-last-k-numbers](https://github.com/tanmayraj2309/Leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/tanmayraj2309/Leet-code/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tanmayraj2309/Leet-code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/tanmayraj2309/Leet-code/tree/master/0724-find-pivot-index) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/tanmayraj2309/Leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tanmayraj2309/Leet-code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1694-make-sum-divisible-by-p](https://github.com/tanmayraj2309/Leet-code/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/tanmayraj2309/Leet-code/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -613,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/tanmayraj2309/Leet-code/tree/master/0838-design-linked-list) |
+| [1477-product-of-the-last-k-numbers](https://github.com/tanmayraj2309/Leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/tanmayraj2309/Leet-code/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -666,4 +670,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1558-course-schedule-iv](https://github.com/tanmayraj2309/Leet-code/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/tanmayraj2309/Leet-code/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/tanmayraj2309/Leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
