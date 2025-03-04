@@ -103,7 +103,17 @@ public class Solution {
 
 
         // Approach 3 : Two Poninter   // dist= travel of a =x+y+z; travel of b=z+y+x// similar as 3+2=5; 2+3=5
-        //    if(headA==null || headB==null) return null;
+
+
+//         Why Does This Work?
+// Both Pointers Travel the Same Total Distance:
+
+// Even though they start from different heads, they traverse the same number of nodes in total.
+// Since both lists have the same length (m = n), after one full traversal of each, both pointers reach NULL at the same time.
+// Loop Terminates on NULL == NULL:
+
+// When temp1 and temp2 both reach NULL, the loop condition while (temp1 != temp2) fails, and the function returns NULL.
+          if(headA==null || headB==null) return null;
            ListNode temp1=headA;
            ListNode temp2=headB;
            while(temp1!=temp2){
