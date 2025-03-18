@@ -5,6 +5,11 @@ class Solution {
         // we break and store length and repeat it through getting max len 
 
         // optimal Tc: o(2n) sc: O(3)
+        // Simply this qn is a sliding window two pointer 
+        // we take left amd right pointer 
+        // hash map maintain kr rhe hai to store distinct element agr hashmap ka size >2 hoga
+        // tb left pointer ko shrink kruga kyon ki hume longest subbarray of 2 distinct element 
+        // after that return max len 
 
         int left =0;
         int maxlen=0;
