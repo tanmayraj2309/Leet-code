@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/tanmayraj2309/Leet-code/tree/master/0854-making-a-large-island) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tanmayraj2309/Leet-code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/tanmayraj2309/Leet-code/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/tanmayraj2309/Leet-code/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/tanmayraj2309/Leet-code/tree/master/1002-maximum-width-ramp) |
 | [1046-max-consecutive-ones-iii](https://github.com/tanmayraj2309/Leet-code/tree/master/1046-max-consecutive-ones-iii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0567-permutation-in-string) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/tanmayraj2309/Leet-code/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/tanmayraj2309/Leet-code/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/tanmayraj2309/Leet-code/tree/master/0952-word-subsets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/tanmayraj2309/Leet-code/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/tanmayraj2309/Leet-code/tree/master/1160-letter-tile-possibilities) |
@@ -468,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tanmayraj2309/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/tanmayraj2309/Leet-code/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/tanmayraj2309/Leet-code/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/tanmayraj2309/Leet-code/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/tanmayraj2309/Leet-code/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/tanmayraj2309/Leet-code/tree/master/1755-defuse-the-bomb) |
