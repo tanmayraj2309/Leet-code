@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/tanmayraj2309/Leet-code/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/tanmayraj2309/Leet-code/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/tanmayraj2309/Leet-code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmayraj2309/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0215-kth-largest-element-in-an-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tanmayraj2309/Leet-code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmayraj2309/Leet-code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/tanmayraj2309/Leet-code/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanmayraj2309/Leet-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0525-contiguous-array) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/tanmayraj2309/Leet-code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/tanmayraj2309/Leet-code/tree/master/0164-maximum-gap) |
+| [0169-majority-element](https://github.com/tanmayraj2309/Leet-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [0414-third-maximum-number](https://github.com/tanmayraj2309/Leet-code/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/tanmayraj2309/Leet-code/tree/master/0435-non-overlapping-intervals) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanmayraj2309/Leet-code/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/tanmayraj2309/Leet-code/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0215-kth-largest-element-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tanmayraj2309/Leet-code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Dynamic Programming
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tanmayraj2309/Leet-code/tree/master/0169-majority-element) |
 | [1160-letter-tile-possibilities](https://github.com/tanmayraj2309/Leet-code/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/tanmayraj2309/Leet-code/tree/master/1396-count-servers-that-communicate) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/tanmayraj2309/Leet-code/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
