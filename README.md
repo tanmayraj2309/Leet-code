@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmayraj2309/Leet-code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0043-multiply-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/tanmayraj2309/Leet-code/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0415-add-strings) |
