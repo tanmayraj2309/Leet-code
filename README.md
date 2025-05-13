@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmayraj2309/Leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanmayraj2309/Leet-code/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tanmayraj2309/Leet-code/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanmayraj2309/Leet-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0525-contiguous-array) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tanmayraj2309/Leet-code/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/tanmayraj2309/Leet-code/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/tanmayraj2309/Leet-code/tree/master/0202-happy-number) |
 | [0415-add-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmayraj2309/Leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmayraj2309/Leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/tanmayraj2309/Leet-code/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/tanmayraj2309/Leet-code/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/tanmayraj2309/Leet-code/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/tanmayraj2309/Leet-code/tree/master/0287-find-the-duplicate-number) |
