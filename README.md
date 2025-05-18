@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmayraj2309/Leet-code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanmayraj2309/Leet-code/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tanmayraj2309/Leet-code/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanmayraj2309/Leet-code/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0525-contiguous-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/tanmayraj2309/Leet-code/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tanmayraj2309/Leet-code/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanmayraj2309/Leet-code/tree/master/0424-longest-repeating-character-replacement) |
