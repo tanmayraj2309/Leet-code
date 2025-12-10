@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-alternating-groups-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/tanmayraj2309/Leet-code/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tanmayraj2309/Leet-code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tanmayraj2309/Leet-code/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3643-zero-array-transformation-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/tanmayraj2309/Leet-code/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/tanmayraj2309/Leet-code/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/tanmayraj2309/Leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tanmayraj2309/Leet-code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tanmayraj2309/Leet-code/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tanmayraj2309/Leet-code/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tanmayraj2309/Leet-code/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Shortest Path
 |  |
 | ------- |
@@ -834,4 +837,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/tanmayraj2309/Leet-code/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/tanmayraj2309/Leet-code/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/tanmayraj2309/Leet-code/tree/master/2087-confirmation-rate) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tanmayraj2309/Leet-code/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
