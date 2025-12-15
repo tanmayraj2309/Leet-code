@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/tanmayraj2309/Leet-code/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/tanmayraj2309/Leet-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/tanmayraj2309/Leet-code/tree/master/2094-remove-stones-to-minimize-the-total) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tanmayraj2309/Leet-code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tanmayraj2309/Leet-code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/tanmayraj2309/Leet-code/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/tanmayraj2309/Leet-code/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/tanmayraj2309/Leet-code/tree/master/1370-count-number-of-nice-subarrays) |
 | [1477-product-of-the-last-k-numbers](https://github.com/tanmayraj2309/Leet-code/tree/master/1477-product-of-the-last-k-numbers) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/tanmayraj2309/Leet-code/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tanmayraj2309/Leet-code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/tanmayraj2309/Leet-code/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2610-closest-prime-numbers-in-range](https://github.com/tanmayraj2309/Leet-code/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/tanmayraj2309/Leet-code/tree/master/2649-count-total-number-of-colored-cells) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/tanmayraj2309/Leet-code/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tanmayraj2309/Leet-code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tanmayraj2309/Leet-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tanmayraj2309/Leet-code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/tanmayraj2309/Leet-code/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2164-two-best-non-overlapping-events](https://github.com/tanmayraj2309/Leet-code/tree/master/2164-two-best-non-overlapping-events) |
 ## Counting
