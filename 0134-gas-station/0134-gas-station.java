@@ -18,20 +18,16 @@ class Solution {
         // }
         // int n = gas.length;
         // for(i = minI;i<n)
-        int sum1=0;
-        int sum2 =0;
-        for(int i=0;i<gas.length;i++){
-          sum1+=gas[i];
-          sum2+=cost[i];
-        }
-        if(sum2>sum1) return -1;
+        int tgas=0;
+        int tcost =0;
+        
 
         int start=0;
         int tank=0;
         for(int i=0;i<gas.length;i++){
           // if(cost[i]-gas[i]<0) continue;
-          sum1+=gas[i];
-          sum2+=cost[i];
+          tgas+=gas[i];
+          tcost+=cost[i];
            
             tank+=gas[i]-cost[i];
             if(tank<0 ){
@@ -40,6 +36,6 @@ class Solution {
             }
             
         }
-        return  start;
+        return  tgas<tcost ? -1 : start;
     }
 }
