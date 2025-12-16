@@ -20,10 +20,10 @@ class Solution {
         // for(i = minI;i<n)
         int sum1=0;
         int sum2 =0;
-        // for(int i=0;i<gas.length;i++){
-        //   sum1+=gas[i];
-        //   sum2+=cost[i];
-        // }
+        for(int i=0;i<gas.length;i++){
+          sum1+=gas[i];
+          sum2+=cost[i];
+        }
         if(sum2>sum1) return -1;
 
         int start=0;
@@ -40,6 +40,6 @@ class Solution {
             }
             
         }
-        return  sum1<sum2 ? -1 : start;
+        return  start;
     }
 }
