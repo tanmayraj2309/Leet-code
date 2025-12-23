@@ -1,6 +1,6 @@
 class Solution {
     public int maxTwoEvents(int[][] events) {
-        // sort on end time
+         // sort on end time
         PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> a[1] - b[1] ); 
         // sort on start time
         // NlogN
