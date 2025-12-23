@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/tanmayraj2309/Leet-code/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/tanmayraj2309/Leet-code/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/tanmayraj2309/Leet-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2054-two-best-non-overlapping-events](https://github.com/tanmayraj2309/Leet-code/tree/master/2054-two-best-non-overlapping-events) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/tanmayraj2309/Leet-code/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tanmayraj2309/Leet-code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tanmayraj2309/Leet-code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/tanmayraj2309/Leet-code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/tanmayraj2309/Leet-code/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/tanmayraj2309/Leet-code/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2054-two-best-non-overlapping-events](https://github.com/tanmayraj2309/Leet-code/tree/master/2054-two-best-non-overlapping-events) |
 | [2164-two-best-non-overlapping-events](https://github.com/tanmayraj2309/Leet-code/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tanmayraj2309/Leet-code/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/tanmayraj2309/Leet-code/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-most-profit-assigning-work](https://github.com/tanmayraj2309/Leet-code/tree/master/0853-most-profit-assigning-work) |
 | [1256-rank-transform-of-an-array](https://github.com/tanmayraj2309/Leet-code/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/tanmayraj2309/Leet-code/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2054-two-best-non-overlapping-events](https://github.com/tanmayraj2309/Leet-code/tree/master/2054-two-best-non-overlapping-events) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tanmayraj2309/Leet-code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/tanmayraj2309/Leet-code/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/tanmayraj2309/Leet-code/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1170-shortest-common-supersequence](https://github.com/tanmayraj2309/Leet-code/tree/master/1170-shortest-common-supersequence) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/tanmayraj2309/Leet-code/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/tanmayraj2309/Leet-code/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2054-two-best-non-overlapping-events](https://github.com/tanmayraj2309/Leet-code/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/tanmayraj2309/Leet-code/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tanmayraj2309/Leet-code/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/tanmayraj2309/Leet-code/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -615,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/tanmayraj2309/Leet-code/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/tanmayraj2309/Leet-code/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/tanmayraj2309/Leet-code/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2054-two-best-non-overlapping-events](https://github.com/tanmayraj2309/Leet-code/tree/master/2054-two-best-non-overlapping-events) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/tanmayraj2309/Leet-code/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/tanmayraj2309/Leet-code/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/tanmayraj2309/Leet-code/tree/master/2164-two-best-non-overlapping-events) |
