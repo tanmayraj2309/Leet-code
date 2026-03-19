@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/tanmayraj2309/Leet-code/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/tanmayraj2309/Leet-code/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tanmayraj2309/Leet-code/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/tanmayraj2309/Leet-code/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/tanmayraj2309/Leet-code/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/tanmayraj2309/Leet-code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/tanmayraj2309/Leet-code/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tanmayraj2309/Leet-code/tree/master/0292-nim-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/tanmayraj2309/Leet-code/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tanmayraj2309/Leet-code/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Shortest Path
@@ -887,4 +889,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tanmayraj2309/Leet-code/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tanmayraj2309/Leet-code/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
