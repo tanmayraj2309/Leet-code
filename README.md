@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/tanmayraj2309/Leet-code/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/tanmayraj2309/Leet-code/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tanmayraj2309/Leet-code/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/tanmayraj2309/Leet-code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/tanmayraj2309/Leet-code/tree/master/2681-put-marbles-in-bags) |
 | [2716-prime-subtraction-operation](https://github.com/tanmayraj2309/Leet-code/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/tanmayraj2309/Leet-code/tree/master/3195-separate-black-and-white-balls) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/tanmayraj2309/Leet-code/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
